@@ -47,3 +47,37 @@ Converting numeric columns to integers
 
 Preparing columns for analysis and visualization
 
+🔎 Analysis Features
+
+The code produces:
+
+Top 3 countries with the most gold
+
+Countries with more than 10 total medals
+
+Global sum of medals
+
+Top 5 countries by total medals
+
+Comparative charts for Gold / Silver / Bronze
+
+CSV report generation
+
+Export of visualizations in PNG
+
+📈 Included Visualizations
+
+The script automatically generates:
+
+📌 Top 3 countries with the most gold medals
+
+Bar chart with the medal table leaders.
+
+📌 Distribution of countries with +10 medals
+
+Histogram showing how the most competitive countries are distributed.
+
+📌 Gold / Silver / Bronze Comparison (Top 5)
+
+Comparative chart among the countries with the highest overall performance.
+
